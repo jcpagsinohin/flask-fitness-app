@@ -1,0 +1,11 @@
+venv/
+
+.env
+
+*.pyc
+*.pyo
+__pycache__/
+
+migrations/versions/*
+
+.idea/
